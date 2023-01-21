@@ -1,4 +1,4 @@
-console.log("hello world");
+// console.log("hello world");
 
 // console.log(5 + 5);
 
@@ -46,10 +46,35 @@ console.log("hello world");
 // let x = 10;
 
 // console.log(x)
-console.log(10++);
-console.log(x);
-console.log(++x);
-console.log(x);
+// console.log(10++);
+// console.log(x);
+// console.log(++x);
+// console.log(x);
+
+// let nama = "bambang";
+
+// console.log(`hallo saya ${nama}`);
+
+// let x = 10
+
+// x = x + 1; //11
+
+
+angka = 10
+
+if (angka == 11) {
+
+}else if (angka == 12) {
+
+}else {
+
+}
+
+
+
+
+
+
 
 
 

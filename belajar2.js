@@ -28,11 +28,11 @@
 //         break;
 // }
 
-let number = 100
+// let number = 100
 
-for (let a = 10; a < number ; a++) {
-    console.log(`angka ${a}`);
-}
+// for (let a = 10; a < number ; a++) {
+//     console.log(`angka ${a}`);
+// }
 
 
 

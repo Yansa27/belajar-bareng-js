@@ -1,86 +1,11 @@
-// console.log("hello world");
+document.title = "belajar dom";
 
-// console.log(5 + 5);
+const body = document.body;
 
-// cara bikin variabel
-// var yourname = "yunita";
+body.append('Hello world')
 
-// var yourname = "bangkit";
+const h1 = document.createElement('h1');
 
-// let yourgae = 18;
-// console.log(yourgae);
-// yourgae = 15;
-// console.log(yourgae);
+h1.textContent = "ini h1"
 
-// let number ;
-// const huruf = "hallo deck";
-// number = 10;
-
-// console.log(typeof(number));
-
-// console.log(typeof(huruf));
-
-// ! Tipe Tipe operator
-// let number = 10;
-// let angka = 5;
-
-// let hasil = number * angka;
-// console.log(hasil);
-// hasil = number + number;
-// console.log(hasil);
-// hasil = number - number;
-// console.log(hasil);
-// hasil = number % number;
-// console.log(hasil);
-
-// console.log()
-
-// let a = 10;
-// let b = 5;
-// console.log(10 + 10);
-// console.log(10 - 10);
-// console.log(10 / 10);
-// console.log(a % b);
-// console.log(a**2);
-
-// let x = 10;
-
-// console.log(x)
-// console.log(10++);
-// console.log(x);
-// console.log(++x);
-// console.log(x);
-
-// let nama = "bambang";
-
-// console.log(`hallo saya ${nama}`);
-
-// let x = 10
-
-// x = x + 1; //11
-
-
-angka = 10
-
-if (angka == 11) {
-
-}else if (angka == 12) {
-
-}else {
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+body.append(h1)
